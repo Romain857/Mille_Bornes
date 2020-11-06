@@ -1,0 +1,16 @@
+﻿  carteParade.cpp
+  Cartes.cpp
+  cartesAttaque.cpp
+  cartesBornes.cpp
+  cartesBottes.cpp
+  Deck.cpp
+C:\Users\romai\source\repos\Mille-Bornes\Mille-Bornes\Deck.cpp(96,19): warning C4018: '<' : incompatibilité signed/unsigned
+  jeu.cpp
+  joueur.cpp
+C:\Users\romai\source\repos\Mille-Bornes\Mille-Bornes\joueur.cpp(181,19): warning C4018: '<' : incompatibilité signed/unsigned
+  listeJoueurs.cpp
+  mainJoueur.cpp
+  milleBornes.cpp
+C:\Users\romai\source\repos\Mille-Bornes\Mille-Bornes\milleBornes.cpp(32,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Génération de code en cours...
+  Mille-Bornes.vcxproj -> C:\Users\romai\source\repos\Mille-Bornes\Debug\Mille-Bornes.exe
